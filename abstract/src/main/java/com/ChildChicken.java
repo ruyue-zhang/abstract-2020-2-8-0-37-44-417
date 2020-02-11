@@ -9,5 +9,4 @@ public class ChildChicken {
   public String getType() {
     return getClass().getSimpleName();
   }
-
 }
